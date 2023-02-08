@@ -1,0 +1,14 @@
+url01:
+  url: "deviceService/v1/devices?count=10&offset=0"
+
+url02:
+  url: "deviceService/v1/devices/count"
+
+url03:
+  url: "deviceService/v1/devices/log?start=2021-06-07&end=2050-08-10&count=5&offset=0&level=info"
+
+url04:
+  url: "deviceService/v1/devices/sn"
+
+url05:
+  url: "deviceService/v1/devices/sn/log?offset=0&level=info&start=2022-11-10T07:06:55Z&count=50&end=2030-12-10T07:06:55Z"

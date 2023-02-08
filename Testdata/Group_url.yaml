@@ -1,0 +1,14 @@
+url01:
+  url: "deviceService/v1/groups?withDevices=true"
+
+url02:
+  url: "deviceService/v1/groups"
+
+url03:
+  url: "deviceService/v1/groups/"
+
+url04:
+  url: "deviceService/v1/groups/"
+
+url05:
+  url: "deviceService/v1/groups/"

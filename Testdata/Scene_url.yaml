@@ -1,0 +1,14 @@
+url01:
+  url: "sceneService/v1/scenes?withActions=true"
+
+url02:
+  url: "sceneService/v1/scenes?withActions=true"
+
+url03:
+  url: "sceneService/v1/scenes/"
+
+url04:
+  url: "sceneService/v1/scenes/"
+
+url05:
+  url: "sceneService/v1/scenes/"
