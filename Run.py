@@ -7,3 +7,4 @@ if __name__ == '__main__':
     pytest.main(["-sv", "--alluredir" , "./report/temp_json_report"])
     time.sleep(3)
     os.system("allure generate ./report/temp_json_report -o ./report/html --clean")
+    # 分支
